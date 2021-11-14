@@ -1,0 +1,35 @@
+[33mcommit 9ccaf96dfc8ca6e70bcbc2221cccafcb37297c1b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Paulodev88 <paulo.ricardodev88@gmail.com>
+Date:   Sun Nov 14 19:53:58 2021 -0300
+
+    refactor: aplications-test.properties
+
+[33mcommit 6ae1ca328dd148f5b5a97560f30da956905f0a4c[m
+Author: Paulodev88 <paulo.ricardodev88@gmail.com>
+Date:   Sun Nov 14 18:38:16 2021 -0300
+
+    add: Object-relational mapping
+
+[33mcommit 2259fb3adb22254a24c6df1c77fe9a6cd6586c0e[m
+Author: Paulodev88 <paulo.ricardodev88@gmail.com>
+Date:   Sun Nov 14 18:01:08 2021 -0300
+
+    create: Class - Order / OrderStatus
+
+[33mcommit 9cb8a972f63c07b41c7be9fa234ca4942d676fe0[m
+Author: Paulodev88 <paulo.ricardodev88@gmail.com>
+Date:   Sun Nov 14 17:44:12 2021 -0300
+
+    create: Class - Product
+
+[33mcommit bbe6bfde45db82c41a87ca615efaf162f96709d3[m
+Author: Paulodev88 <paulo.ricardodev88@gmail.com>
+Date:   Sun Nov 14 17:33:49 2021 -0300
+
+    Initial setup
+
+[33mcommit 14cdec1f3b164424564ddac6c85565f5477d7efe[m
+Author: Paulo Santos <paulo.ricardodev88@gmail.com>
+Date:   Sun Nov 14 16:43:34 2021 -0300
+
+    Project created
