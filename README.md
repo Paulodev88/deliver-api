@@ -1,10 +1,10 @@
 # Delivery-api
 REST API created with Spring with deploy on Heroku for future studies and consultation
 
-## Modelo conceitual
+## Conceptual Model
 ![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/modelo-conceitual.png "Modelo conceitual")
 
-## Padrão camadas adotado
+## Pattern Layers 
 
 ![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/camadas.png "Padrão camadas")
 
