@@ -16,6 +16,7 @@ public class OrderService {
 
 	@Autowired
 	private OrderRepository repository;
+	
 	@Transactional(readOnly = true)
 	public List<OrderDTO> findAll() {
 
@@ -24,5 +25,15 @@ public class OrderService {
 		return list.stream().map(order -> new OrderDTO(order)).collect(Collectors.toList());
 
 	}
+	
+	@Transactional(readOnly = true)
+	public List<OrderDTO> findOrderWithProducts() {
+
+		List<Order> list = repository.findOrderWithProducts();		
+		
+		return list.stream().map(order -> new OrderDTO(order)).collect(Collectors.toList());
+
+	}
+
 
 }
